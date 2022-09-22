@@ -1,4 +1,4 @@
-[
+{"status":200, "data":[
   {
     "name": "Heart Specialist",
     "image_url": "https://raw.githubusercontent.com/PortalTelemedicina/mobile-test/main/icons/heart-shape-outline-with-lifeline.svg",
@@ -17,4 +17,5 @@
     "total": 4,
     "color": "#7349E5"
   }
-]
+] 
+}
